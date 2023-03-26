@@ -6,7 +6,7 @@
         {
             Console.WriteLine("Calculator\n");
 
-            Console.WriteLine("Enter Number 1:");
+            Console.WriteLine("Enter     Number 1:");
             double number1 = double.Parse(Console.ReadLine());
 
             Console.WriteLine("Select a Process(+,-,*,/,%):");
